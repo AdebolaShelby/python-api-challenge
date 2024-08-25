@@ -81,7 +81,7 @@ The main tasks will be to use the Geoapify API and the geoViews Python library a
 
 
 1. Create a map that displays a point for every city in the `city_data_df` DataFrame. The size of the point should be the humidity in each city.
-
+* ![a map that displays a point for every city in the `city_data_df` DataFrame](base_map.png)
 2. Narrow down the `city_data_df` DataFrame to find your ideal weather condition. For example:
 
     * A max temperature lower than 27 degrees but higher than 21
